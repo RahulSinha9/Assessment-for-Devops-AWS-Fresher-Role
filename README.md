@@ -4,6 +4,7 @@
 Q. Create an AWS account with two different EC2 instances. Development and production
 
 Ans: Steps to Create EC2 Instances on AWS.
+
          Step 1. Log in to the AWS Management Console.
          Step 2. In the AWS Console, go to the EC2 dashboard.
          Step 3. Click "Launch Instance" to initiate the instance creation process.
